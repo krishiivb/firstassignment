@@ -1,0 +1,107 @@
+/*Krishiv Bahl*/
+
+body{
+width: 80vw;
+font: 18px Arial ,sans-serif;
+padding: 20px;
+}
+
+.structure{
+    border:dotted blue;
+    border-radius: 18em;
+    padding: 9px;
+    margin: 10px;
+    clear: both;
+}
+
+
+
+
+h1{
+color: purple;
+font-variant: small-caps;
+
+}
+h2{
+    color: purple;
+    font-variant: small-caps;
+    
+    }
+
+main{
+float: left;
+width: 50vw;
+padding: 3px;
+margin: auto;
+
+}
+
+aside{
+float: right;
+width: 20vw;
+padding: 3px;
+margin: auto;
+
+}
+
+.mainimg{
+border:10px solid red;
+width: 70vw;
+text-align: center;
+align-content: center;
+}
+
+q{
+padding: 22px;
+font-style: bold;
+font-size: 22px;
+
+}
+    
+figcaption{
+
+    font-weight: bold;
+}
+
+ul li{
+line-height:  28px;
+list-style:none
+}
+
+
+figcaption{
+
+    font-weight:bold ;
+
+}
+
+ul li{
+
+list-style-type:none ;
+line-height: 1.8em ;
+}
+
+ul>a href{
+text-decoration: none;
+color:rgb(28,215,28);
+font-size: 25px;
+
+}
+
+a:hover{
+color:red
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
